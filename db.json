@@ -1,0 +1,49 @@
+{
+  "users": [
+    {
+      "name": "Alberta Kilback",
+      "id": 6
+    },
+    {
+      "name": "Dale Turner",
+      "id": 8
+    },
+    {
+      "name": "Susie Turner",
+      "id": 9
+    },
+    {
+      "name": "Ruben Ebert",
+      "id": 10
+    }
+  ],
+  "albums": [
+    {
+      "userId": 6,
+      "title": "Gorgeous Frozen Chips",
+      "id": 32
+    },
+    {
+      "userId": 6,
+      "title": "Recycled Granite Gloves",
+      "id": 34
+    },
+    {
+      "userId": 6,
+      "title": "Ergonomic Concrete Shirt",
+      "id": 35
+    },
+    {
+      "userId": 6,
+      "title": "Handcrafted Wooden Shirt",
+      "id": 36
+    }
+  ],
+  "photos": [
+    {
+      "url": "https://loremflickr.com/150/150/abstract?lock=92700",
+      "albumId": 32,
+      "id": 1
+    }
+  ]
+}
